@@ -17,6 +17,7 @@ La solución abarca los siguientes puntos requeridos:
 
 1.  **Modelo de Datos:**
     * Diagrama Entidad-Relación (DER) normalizado en **3FN**.
+         * Link al DER --> https://www.drawdb.app/editor?shareId=136ac6a3d8b99b33fd0cafe26ec6e197
 
 2.  **Scripts SQL:**
     * `DDL.sql`: Creación de la base de datos, tablas y restricciones.
